@@ -1,0 +1,5 @@
+{
+  "name": "HRM Medical Center",
+  "description": "A web application to digitize and manage employee records for a medical center, replacing Excel files. It allows for detailed management of personal information, work history, qualifications, and generates dynamic reports.",
+  "requestFramePermissions": []
+}
